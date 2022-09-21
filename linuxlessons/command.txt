@@ -1,0 +1,23 @@
+linux commands
+ctrl+alt+T - komanda otkrytia terminala
+~ - simvol domashnego direktorii
+/ - simvol kornevoi direktorii
+
+.. - last directory 
+. - tecushi directory
+
+1. ls(list) - komanda dlya vyvoda vseh directorii i failov v tekushei direktorii v terminala 
+2. cd(chang directory) - komanda dlya izminenie (perehodov) odnoi directory na druguiu 
+   		cd <nazyvanie directory>
+3. mkdir (make directory) - sozdanie papki(directory) 
+4. touch - sozdaet ukazannyi fail
+rm - delete file
+rmdir - delete directory
+pwd(present working directory) - put do tekushei directory
+rm -rf - prinudirelnogo delete
+ls -a - vyvod spisok kak skrytyh tak i obychnyh
+cat <file_name>/ - vyvodit soderjimoe v terminal1
+nano <parth_to_file> - otkroetsya fail lkz redaktora v graf interface
+12. echo - команда для быйстрой записи текстовой инфо в какой либо файл
+echo текст_для_записи> называние файла
+13. mv - команда для переименования файла либо директории а так же для перемешение файлов или директории  
